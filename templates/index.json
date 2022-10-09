@@ -129,17 +129,18 @@
         "template--16171877138563__d92853d4-fda1-4028-b0e8-56e92cc67221-16653278414e122499-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "image": "shopify:\/\/shop_images\/MJM_nature.jpg",
+            "heading": "MJM Nature",
+            "heading_size": "h0",
+            "subheading": "A Serious Style for a Seriously Stylish",
+            "button_label": "Check it out 1",
+            "link": "shopify:\/\/collections\/mjm-collections-nature",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "image_overlay_opacity": 40,
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
