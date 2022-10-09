@@ -178,12 +178,21 @@
               "heading": "OUR VISION",
               "subtext": "<p>We will be the most valued business partner to our customers.<\/p>"
             }
+          },
+          "6ff68542-c9e9-452a-88b1-b011cd378c38": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1_799d95f9-cbb8-4725-85e3-c0e926a788ac.png",
+              "image_width": 200,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "53324d4b-a694-434d-9d35-81bb7396099e",
           "71a51f7d-2b93-4f18-ba0d-91055c7c3ee6",
-          "3ef5ef8b-b8a3-4381-bffa-d95535f98d95"
+          "3ef5ef8b-b8a3-4381-bffa-d95535f98d95",
+          "6ff68542-c9e9-452a-88b1-b011cd378c38"
         ],
         "settings": {
           "color_scheme": "inverse",
