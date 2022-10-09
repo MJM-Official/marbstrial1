@@ -152,13 +152,13 @@
             "heading_size": "h0",
             "subheading": "A Serious Style for a Seriously Stylish",
             "button_label": "Check it out !",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "link": "shopify:\/\/collections\/mjm-collections-black",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "image_overlay_opacity": 40,
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
