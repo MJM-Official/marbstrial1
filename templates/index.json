@@ -190,11 +190,21 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
-        "slider_visual": "counter",
+        "slider_visual": "numbers",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "MJM Collection"
+      }
+    },
+    "5f371231-4042-4d28-a61f-0e65f615b13a": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collage": {
@@ -308,6 +318,7 @@
     "rich_text",
     "featured_collection",
     "d92853d4-fda1-4028-b0e8-56e92cc67221",
+    "5f371231-4042-4d28-a61f-0e65f615b13a",
     "collage",
     "video",
     "multicolumn"
