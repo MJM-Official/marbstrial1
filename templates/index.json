@@ -190,7 +190,7 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
-        "slider_visual": "numbers",
+        "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": true,
@@ -210,40 +210,42 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
+        "0e17e385-36cc-4546-87ed-6e9b0218c8ec": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "upcoming-shirt2-1",
+            "second_image": true
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "6d9e2d23-2446-428f-9df8-6bcc916f7f73": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "upcoming-shirt",
+            "second_image": true
+          }
+        },
+        "59f894c4-f18e-4d1e-b5a0-450425669da4": {
+          "type": "product",
+          "settings": {
+            "product": "upcoming-shirt2",
+            "second_image": true
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "0e17e385-36cc-4546-87ed-6e9b0218c8ec",
+        "6d9e2d23-2446-428f-9df8-6bcc916f7f73",
+        "59f894c4-f18e-4d1e-b5a0-450425669da4"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
+        "heading": "MJM Upcoming Collections",
+        "heading_size": "h0",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "inverse",
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     },
     "video": {
