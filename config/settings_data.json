@@ -85,7 +85,7 @@
     "media_radius": 0,
     "media_shadow_opacity": 0,
     "media_shadow_horizontal_offset": 0,
-    "media_shadow_vertical_offset": 4,
+    "media_shadow_vertical_offset": 16,
     "media_shadow_blur": 5,
     "popup_border_thickness": 1,
     "popup_border_opacity": 10,
@@ -158,35 +158,35 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
-          },
-          "footer-2": {
+          "53324d4b-a694-434d-9d35-81bb7396099e": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "MJM ORIGINAL",
+              "subtext": "<p><strong>MJM's Collection<\/strong> will certainly give you the best quality and affordable <strong>t-shirt<\/strong> that makes you comfortable anytime. <strong>If you can't stop thinking about it, buy it now!<\/strong><\/p>"
+            }
+          },
+          "71a51f7d-2b93-4f18-ba0d-91055c7c3ee6": {
+            "type": "text",
+            "settings": {
+              "heading": "OUR MISSION",
+              "subtext": "<p>We will provide the best quality and best service to our valued customers<\/p>"
+            }
+          },
+          "3ef5ef8b-b8a3-4381-bffa-d95535f98d95": {
+            "type": "text",
+            "settings": {
+              "heading": "OUR VISION",
+              "subtext": "<p>We will be the most valued business partner to our customers.<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1",
-          "footer-2"
+          "53324d4b-a694-434d-9d35-81bb7396099e",
+          "71a51f7d-2b93-4f18-ba0d-91055c7c3ee6",
+          "3ef5ef8b-b8a3-4381-bffa-d95535f98d95"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
