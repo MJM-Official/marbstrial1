@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The First MJM Official Web Store<\/p>",
+            "heading": "<p>The First MJM Official Store in PH Market<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>A live show experience or a T-shirt are the only things that cannot be stolen or downloaded even though music sales aren't what they once were.<\/p>"
+            "text": "<p>A live show experience or a <strong>T-shirt <\/strong>are the only things that cannot be stolen or downloaded even though music sales aren't what they once were.<\/p>"
           }
         }
       },
@@ -72,7 +72,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 44,
         "padding_bottom": 44
@@ -81,8 +81,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
+        "title": "MJM Collections",
+        "heading_size": "h0",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -103,6 +103,95 @@
         "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
+      }
+    },
+    "d92853d4-fda1-4028-b0e8-56e92cc67221": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16171877138563__d92853d4-fda1-4028-b0e8-56e92cc67221-16653278414e122499-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MJM_original.jpg",
+            "heading": "MJM Original",
+            "heading_size": "h0",
+            "subheading": "A Serious Style for a Seriously Stylish",
+            "button_label": "Check it out !",
+            "link": "shopify:\/\/collections\/mjm-collections-original",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16171877138563__d92853d4-fda1-4028-b0e8-56e92cc67221-16653278414e122499-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "9ceb760c-4177-489e-ac9d-29b8bdc85927": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2a0fa430-da01-4440-b645-da6f5460441f": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16171877138563__d92853d4-fda1-4028-b0e8-56e92cc67221-16653278414e122499-0",
+        "template--16171877138563__d92853d4-fda1-4028-b0e8-56e92cc67221-16653278414e122499-1",
+        "9ceb760c-4177-489e-ac9d-29b8bdc85927",
+        "2a0fa430-da01-4440-b645-da6f5460441f"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "collage": {
@@ -215,6 +304,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
+    "d92853d4-fda1-4028-b0e8-56e92cc67221",
     "collage",
     "video",
     "multicolumn"
