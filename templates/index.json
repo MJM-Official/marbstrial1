@@ -248,6 +248,40 @@
         "padding_bottom": 48
       }
     },
+    "6374dd64-b61e-4009-9bfe-5e14a5c1e5be": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16171877138563__6374dd64-b61e-4009-9bfe-5e14a5c1e5be-1665328784a0bf7540-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16171877138563__6374dd64-b61e-4009-9bfe-5e14a5c1e5be-1665328784a0bf7540-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p><p><em><strong>marbsmortalla@gmail.com<\/strong><\/em><\/p>"
+          }
+        },
+        "template--16171877138563__6374dd64-b61e-4009-9bfe-5e14a5c1e5be-1665328784a0bf7540-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16171877138563__6374dd64-b61e-4009-9bfe-5e14a5c1e5be-1665328784a0bf7540-0",
+        "template--16171877138563__6374dd64-b61e-4009-9bfe-5e14a5c1e5be-1665328784a0bf7540-1",
+        "template--16171877138563__6374dd64-b61e-4009-9bfe-5e14a5c1e5be-1665328784a0bf7540-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "video": {
       "type": "video",
       "settings": {
@@ -322,6 +356,7 @@
     "d92853d4-fda1-4028-b0e8-56e92cc67221",
     "5f371231-4042-4d28-a61f-0e65f615b13a",
     "collage",
+    "6374dd64-b61e-4009-9bfe-5e14a5c1e5be",
     "video",
     "multicolumn"
   ]
